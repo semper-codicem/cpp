@@ -1,0 +1,5 @@
+- [Home](/)
+- [Fundamentals](fundamentals/cpp.md)
+- [Syntax](syntax/basics.md)
+- [Variables](syntax/variables.md)
+- [Control Structures](syntax/control-structures.md)
