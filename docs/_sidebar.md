@@ -1,5 +1,7 @@
 - [Home](/)
 - [Fundamentals](fundamentals/cpp.md)
+- [Build and Run](fundamentals/build_and_run.md)
+- [Build automation](fundamentals/build_automation.md)
 - [From Variable to Binary](fundamentals/from_variable_to_binary.md)
 - [Syntax](syntax/basics.md)
 - [Variables](syntax/variables.md)
