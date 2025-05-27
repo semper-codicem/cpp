@@ -1,5 +1,6 @@
 - [Home](/)
 - [Fundamentals](fundamentals/cpp.md)
+- [From Variable to Binary](fundamentals/from_variable_to_binary.md)
 - [Syntax](syntax/basics.md)
 - [Variables](syntax/variables.md)
 - [Control Structures](syntax/control-structures.md)
